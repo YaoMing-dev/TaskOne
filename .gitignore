@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*.swo
+*~
+.tmp/
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode
+.vscode/
+
+# Android
+android/
+ios/
+
+# Logs
+logs/
+*.log
